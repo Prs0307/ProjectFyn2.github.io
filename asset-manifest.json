@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/ProjectFyn.github.io/static/js/main.b46dd6ba.js",
+    "static/js/512.125ea300.chunk.js": "/ProjectFyn.github.io/static/js/512.125ea300.chunk.js",
+    "static/media/login_svg.svg": "/ProjectFyn.github.io/static/media/login_svg.faa04da44f93087ebeb4f1680c929a3e.svg",
+    "index.html": "/ProjectFyn.github.io/index.html",
+    "main.b46dd6ba.js.map": "/ProjectFyn.github.io/static/js/main.b46dd6ba.js.map",
+    "512.125ea300.chunk.js.map": "/ProjectFyn.github.io/static/js/512.125ea300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b46dd6ba.js"
+  ]
+}
